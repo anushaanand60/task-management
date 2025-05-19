@@ -192,7 +192,7 @@ React Beautiful DnD is implemented through several components:
 
 ## Demo Video
 
-- Yet to be put.
+Watch the demo video here: [Task Board Demo Video](https://drive.google.com/file/d/1Xo_AJI8Go4l934IWPvOSL54GmcOs-GPE/view?usp=sharing)
 
 ## Future Enhancements
 
