@@ -1,6 +1,6 @@
 # Task Board - Task Management Application
 
-![Task Board Screenshot](![image](https://github.com/user-attachments/assets/47e5f0b6-d2e3-4a10-a711-1fd1756a4f0d))
+![Task Board Screenshot](https://github.com/anushaanand60/task-management/raw/main/images/Task_Management.png)
 
 A comprehensive task management board application that enables users to organize tasks across three status columns: To Do, In Progress, and Done. Users can create, update, delete, and drag-and-drop tasks to manage their workflow efficiently.
 
